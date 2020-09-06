@@ -8,3 +8,18 @@
 
 **********************************************************************************/
 
+@font-face {
+	font-family: "portada";
+	/* src: url("CustomFont.eot"); */
+	src: url("/tipografías/Portada-Regular.otf") format("otf"),
+	
+	}
+	
+@font-face {
+	font-family: "portada-bold";
+	/* src: url("CustomFont.eot"); */
+	src: url("/tipografías/Portada-Bold.otf") format("otf"),
+	
+	}
+	
+	
