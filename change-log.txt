@@ -226,3 +226,60 @@ Initial Release
             </div>
         </div>
         <!-- END REVOLUTION SLIDER -->
+
+
+        <!-- Start Blog Grid Area -->
+<div class="bk-blog-grid-area pt--40 pb--130 ptb-md--80 ptb-sm--60 bg_color--1">
+    <div class="container">
+        
+        <div class="row">
+         
+             <!-- Start Single Blog -->
+             <div class="col-lg-4 col-md-4 col-sm-6 col-12 mt--70">
+                <div class="blog-grid blog-grid--modern blog-standard blog-yellow-color">
+                    <div class="post-thumb">
+                        <a href="https://www.youtube.com/watch?v=I9hoGCLUzwQ&ab_channel=CLAR%C3%8DN" target="blank">
+                            <img src="/imagenes/lagos 770x500.jpg" alt="Multipurpose template">
+                        </a>
+                    </div>
+                    <div class="post-content text-center">
+                        <div class="post-inner">
+                            <div class="post-meta mb--10">
+                                <div class="post-date " style="font-weight: 400; font-family: portada; font-size: large;">Miércoles, 9 de Septiembre.</div>
+                                <!-- <div class="post-category"><a href="#">Sanguinetti</a></div> -->
+                            </div>
+                            <h5 class="heading heading-h5 line-height-1-39"><span class="" style="font-weight: 400; font-family: portada; font-size: x-large;">Ricardo Lagos</span></h5>
+                            <a href="https://www.youtube.com/watch?v=I9hoGCLUzwQ&ab_channel=CLAR%C3%8DN" target="blank" class="post-read-more"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Blog -->
+            <!-- Start Single Blog -->
+            <div class="col-lg-4 col-md-4 col-sm-6 col-12 mt--70">
+                <div class="blog-grid blog-grid--modern blog-standard blog-yellow-color">
+                    <div class="post-thumb">
+                        <a href="https://www.youtube.com/watch?v=QzXc6L0ccSo&ab_channel=CLAR%C3%8DN" target="blank">
+                            <img src="/imagenes/cardoso-pasada.jpg" alt="Multipurpose template">
+                        </a>
+                    </div>
+                    <div class="post-content text-center">
+                        <div class="post-inner">
+                            <div class="post-meta mb--10">
+                                <div class="post-date " style="font-weight: 400; font-family: portada; font-size: large;">Miércoles, 16 de Septiembre.</div>
+                                <!-- <div class="post-category"><a href="#">Sanguinetti</a></div> -->
+                            </div>
+                            <h5 class="heading heading-h5 line-height-1-39"><span class="" style="font-weight: 400; font-family: portada; font-size: x-large;">Fernando Henrique Cardoso</span></h5>
+                            <a href="https://www.youtube.com/watch?v=QzXc6L0ccSo&ab_channel=CLAR%C3%8DN" target="blank" class="post-read-more"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Blog -->
+          
+           
+         
+        </div>
+    </div>
+</div>
+<!-- End Blog Grid Area -->
